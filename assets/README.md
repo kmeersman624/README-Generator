@@ -1,9 +1,9 @@
 
   # Readme Generator
   ## Description
-  This is a command-line application that dynamically generates a readme.md from the user's input
+  Use this app to generate a readme for your project in command-line.
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/kmeerman624/README-Generator)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/kmeersman624/README-Generator)
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,18 +14,18 @@
   * [Questions](#questions) 
 
   ## Installation
-  open up the terminal in your project and type node index.js and answer questions.
+  open up the terminal and type node index.js
 
   ## Usage
   see install
 
   ## License
-  no license 
+  no locense 
 
-  ![GitHub](https://img.shields.io/github/license/kmeerman624/README-Generator)
+  ![GitHub](https://img.shields.io/github/license/kmeersman624/README-Generator)
 
   ## Contributing
-  Kate Meersman
+  kate Meersman
 
   ## Tests
 

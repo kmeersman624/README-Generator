@@ -55,14 +55,9 @@ inquirer
       message: "Provide instructions for use of your project",
     },
     {
-      name: "tests",
-      type: "input",
-      message: "Insert Examples of tests",
-    },
-    {
       name: "question1",
       type: "input",
-      message: "What is your GitHub proflie picture?",
+      message: "What is the path to your GitHub proflie picture?",
     },
     {
       name: "question2",
@@ -103,8 +98,12 @@ inquirer
 
   ## Tests
 
+  ![image of test](./assets/images/readme1.PNG)
+
+  ![image of test](./assets/images/readme2.PNG)
+
   ## Questions
-  * ${user.question1}
+  * ![GitHub Portfolio Picture](${user.question1})
   * ${user.question2}
 
     `;
